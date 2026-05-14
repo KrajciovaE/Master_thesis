@@ -1,0 +1,1 @@
+In thi repo i have all important parts for my master thesis that focuses on finding the longest induced cycle in regular graphs, I am building on my finding from bachalor thesis where i focus only on cubic graphs.
